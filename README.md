@@ -10,7 +10,9 @@ An Android social media app for signing un and shared photos, liking and comment
 - **View** post **comments** or **write** one by pressing the **comment icon**.
 
 ## Features
-- Sign up [email, password].
+- nice simplistic design with android latests UX, UI.
+- Sign up [email, password], checks if email already exists.
+- Sign in, checks if email exists and password is correct.
 - 
 
 ## versions
