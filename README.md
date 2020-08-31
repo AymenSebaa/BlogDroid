@@ -13,7 +13,11 @@ An Android social media app for signing un and shared photos, liking and comment
 - nice simplistic design with android latests UX, UI.
 - Sign up [email, password], checks if email already exists.
 - Sign in, checks if email exists and password is correct.
-- 
+- home, search and profile pages.
+- edit profile.
+- create, edit, delete post(description + photo)
+- add, delete comment
+- sign out.
 
 ## versions
    ### - 1.0.0
